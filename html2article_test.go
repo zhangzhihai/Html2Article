@@ -26,7 +26,6 @@ func TestGetTitle(t *testing.T) {
 		return
 	}
 	fmt.Println(title)
-
 }
 
 func TestGetArticle(t *testing.T) {
@@ -46,9 +45,7 @@ func TestFormatTag(t *testing.T) {
 		fmt.Println(cbody)
 		return
 	}
-
 	//fmt.Println(cbody)
-
 }
 
 func TestGetContent(t *testing.T) {
